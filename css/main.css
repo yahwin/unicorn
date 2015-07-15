@@ -15,7 +15,7 @@ body{
 }
 
 .content{
-  display: flex;
+  display: float;
   flex-direction: column;
   flex: auto;
   justify-content: auto;
