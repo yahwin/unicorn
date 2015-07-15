@@ -1,0 +1,42 @@
+article{
+  background-color: darkseagreen;
+  border: 1px solid gray;
+  border-radius: 5px;
+  color: black;
+  margin-top: 2rem;
+  margin-left: 15%;
+  padding: 1rem;
+  width: 25rem;
+}
+
+body{
+  background-color: ivory;
+  color: #2F4F4F;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  justify-content: auto;
+}
+
+.blueText{
+  color: blue;
+}
+
+.greenText{
+  color: green;
+}
+
+footer{
+  text-align: center;
+}
+
+.redText{
+  color: red;
+}
+
+.underLine{
+  text-decoration: underline;
+}
